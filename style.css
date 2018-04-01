@@ -1,0 +1,45 @@
+
+
+body{
+    background-color:rgb(199, 121, 121);
+    text-align: center;
+    
+}
+header {
+    background-color:brown;
+    text-align: center;
+    font-family: cambria;
+    height: 100px;
+    font-size: 50px;
+}
+a{
+
+}
+ul li{
+    margin: 0 auto;
+    display: inline-block;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+    
+}
+/* li{
+    float: left;
+
+} */
+li a{
+    font-family: monospace;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+
+Add CommentCollapse 
+
